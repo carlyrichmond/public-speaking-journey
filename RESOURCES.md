@@ -2,7 +2,7 @@
 
 Below are the various resources and tools I have found useful in learning public speaking, and also for finding conferences at which to speak. 
 
-It is by no means exhaustive, so if you have others that are useful feel free to DM me or raise a pull request with your additions!
+It is by no means exhaustive, so if you have others that are useful feel free to [contact me](./README.md#contact-me) or raise a pull request with your additions!
 
 ## Speaker Experiences
 
