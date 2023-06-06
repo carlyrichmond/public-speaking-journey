@@ -7,7 +7,7 @@ This repo contains talks and resources for embarking on your journey to becoming
 
 ## Resources
 
-Check out [RESOURCES.md]() for a full list of external resources, communities and videos that you can use to improve your public speaking skills. 
+Check out [RESOURCES.md](./RESOURCES.md) for a full list of external resources, communities and videos that you can use to improve your public speaking skills. 
 
 If you have taken part in a recent workshop, the worksheet and slides are available [in the workshop folder](./workshop/).
 
