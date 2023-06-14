@@ -13,6 +13,7 @@ It is by no means exhaustive, so if you have others that are useful feel free to
 ## Charisma and Nerve Management
 
 [Charisma vs Stage Fright | Deborah Frances White](https://www.youtube.com/watch?v=IdJbJMUFzZA)
+[Stage fright: Don't get over it; get used to it. | Dr Anwesha Banerjee](https://www.youtube.com/watch?v=VthbZPxM-do)
 
 ## Content Creation Resources
 
