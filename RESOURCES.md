@@ -19,6 +19,7 @@ It is by no means exhaustive, so if you have others that are useful feel free to
 
 1. [25 Content Creation and Sharing Hacks | Helen Scott](https://www.helenjoscott.com/2021/02/22/25-content-hacks/)
 2. [Hacks for Content Creation and Sharing | Helen Scott @ Manchester JUG](https://www.youtube.com/watch?v=-bH1Voj5iCU&pp=ygUlTWFuY2hlc3RlciBKYXZhIENvbW11bml0eSBIZWxlbiBTY290dA%3D%3D)
+3. [Page to Stage (part 3): working on presentation | Oleksandr Leushchenko](https://medium.com/googledeveloperseurope/page-to-stage-part-3-working-on-presentation-2715529214ff)
 
 ## Audience Engagement
 
