@@ -2,8 +2,11 @@
 
 This repo contains talks and resources for embarking on your journey to becoming an established public speaking in tech. It is based on the experiences of the author [Carly Richmond](https://github.com/carlyrichmond), who embarked on her own speaking journey after taking 6 month maternity leave in 2019. The resources referenced have been presented at several forums including:
 
-1. [Women Who Code London, March 2023](https://www.meetup.com/women-who-code-london/events/291871661/)
-2. [European Women in Technology, June 2023](https://europeanwomenintech.com/agenda/mastering-public-speaking-in-tech/)
+1. [Women Coding Community (formerly Women Who Code London), March 2023](https://womencodingcommunity.com/)
+2. [European Women in Technology, June 2023](https://europeanwomenintech.com/)
+3. [codebar festival 2024](https://festival.codebar.io/)
+
+A sample recording is available [here](https://www.youtube.com/watch?v=EoW9IKr9HSQ).
 
 ## Resources
 
