@@ -36,8 +36,12 @@ It is by no means exhaustive, so if you have others that are useful feel free to
 ## Conference Call for Papers
 
 [Responding to a Developer Conference CFP | Helen Scott](https://www.helenjoscott.com/2021/06/30/responding-to-a-developer-conference-cfp/)
+[Devoxx UK CFP Tips](https://www.youtube.com/watch?v=mdIuj1pIahA)
+[CFPs Debunked with Aspiring Speakers, LJC and Devoxx UK](https://www.youtube.com/watch?v=fMsyQ5gxK-s)
 
-[Grammarly, very useful for grammar-checking abstracts](https://www.grammarly.com/)
+[Grammarly, very useful for grammar-checking abstracts. Be mindful of using it on work laptops if your company does nto list it in AI policies as an approved too!](https://www.grammarly.com/)
+
+How to find open conference CFPs:
 
 - [Tech Daily CFP Email Blast](https://mailchi.mp/f2e4ba861211/techdailycfp)
 - [Find your next tech conference](https://confs.tech/cfp)
