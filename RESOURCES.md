@@ -12,8 +12,8 @@ It is by no means exhaustive, so if you have others that are useful feel free to
 
 ## Charisma and Nerve Management
 
-[Charisma vs Stage Fright | Deborah Frances White](https://www.youtube.com/watch?v=IdJbJMUFzZA)
-[Stage fright: Don't get over it; get used to it. | Dr Anwesha Banerjee](https://www.youtube.com/watch?v=VthbZPxM-do)
+1. [Charisma vs Stage Fright | Deborah Frances White](https://www.youtube.com/watch?v=IdJbJMUFzZA)
+2. [Stage fright: Don't get over it; get used to it. | Dr Anwesha Banerjee](https://www.youtube.com/watch?v=VthbZPxM-do)
 
 ## Content Creation Resources
 
@@ -33,15 +33,15 @@ It is by no means exhaustive, so if you have others that are useful feel free to
 3. [Toastmasters](https://www.toastmasters.org/find-a-club)
 4. [Finding a Community Mentor | Helen Scott](https://www.helenjoscott.com/2020/12/31/finding-a-community-mentor/)
 
-## Conference Call for Papers
+## Abstract Writing
 
-[Responding to a Developer Conference CFP | Helen Scott](https://www.helenjoscott.com/2021/06/30/responding-to-a-developer-conference-cfp/)
-[Devoxx UK CFP Tips](https://www.youtube.com/watch?v=mdIuj1pIahA)
-[CFPs Debunked with Aspiring Speakers, LJC and Devoxx UK](https://www.youtube.com/watch?v=fMsyQ5gxK-s)
+1. [Responding to a Developer Conference CFP | Helen Scott](https://www.helenjoscott.com/2021/06/30/responding-to-a-developer-conference-cfp/)
+2. [Devoxx UK CFP Tips](https://www.youtube.com/watch?v=mdIuj1pIahA)
+3. [CFPs Debunked with Aspiring Speakers, LJC and Devoxx UK](https://www.youtube.com/watch?v=fMsyQ5gxK-s)
 
-[Grammarly, very useful for grammar-checking abstracts. Be mindful of using it on work laptops if your company does nto list it in AI policies as an approved too!](https://www.grammarly.com/)
+4. [Grammarly, very useful for grammar-checking abstracts. Be mindful of using it on work laptops if your company does nto list it in AI policies as an approved too!](https://www.grammarly.com/)
 
-How to find open conference CFPs:
+## How to Find Open Conference CFPs
 
 - [Tech Daily CFP Email Blast](https://mailchi.mp/f2e4ba861211/techdailycfp)
 - [Find your next tech conference](https://confs.tech/cfp)
