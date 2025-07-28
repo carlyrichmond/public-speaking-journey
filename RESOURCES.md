@@ -47,3 +47,5 @@ It is by no means exhaustive, so if you have others that are useful feel free to
 - [Find your next tech conference](https://confs.tech/cfp)
 - [dev.events](https://dev.events/)
 - [Developers Conferences Agenda/ List | Aurelie Vache (scraly)](https://github.com/scraly/developers-conferences-agenda)
+- [PaperCall](https://www.papercall.io/events)
+- [Sessionize](https://sessionize.com/app/speaker/discover)
